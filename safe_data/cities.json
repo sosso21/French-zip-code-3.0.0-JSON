@@ -357588,17 +357588,7 @@
     "slug": "tsingoni",
     "gps_lat": -12.78940530769231,
     "gps_lng": 45.10582584615386
-  },
-  {
-    "id": 35761,
-    "department_code": "975",
-    "insee_code": "97502",
-    "zip_code": "97500",
-    "name": "Saint-Pierre",
-    "slug": "saint-pierre",
-    "gps_lat": 46.7774872,
-    "gps_lng": -56.1767706
-  },
+  }, 
   {
     "id": 35761,
     "department_code": "975",
